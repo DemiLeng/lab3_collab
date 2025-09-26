@@ -1,1 +1,2 @@
 this is alice
+interrupted by bob
